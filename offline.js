@@ -1,0 +1,31 @@
+﻿{
+	"version": 1586346939,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/instagram_old_400px-sheet0.png",
+		"images/tile.png",
+		"images/btn_refresh-sheet0.png",
+		"images/fllowers-sheet0.png",
+		"images/followings-sheet0.png",
+		"images/fllowers2-sheet0.png",
+		"images/cover-sheet0.png",
+		"images/btn_serch-sheet0.png",
+		"images/white.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"lalezar-regular.eot",
+		"lalezar-regular.svg",
+		"lalezar-regular.ttf",
+		"lalezar-regular.woff",
+		"preview.html",
+		"lalezar-regular.css",
+		"mygamedata.json"
+	]
+}
